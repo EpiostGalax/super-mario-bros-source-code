@@ -1,8 +1,3 @@
-#include <stdio.h>
-void main() {
-  println("")
-}
-asm(
   .ignorenl
 
 ; ----------------------------------------
@@ -151,5 +146,3 @@ PRESERVE_UNUSED_SPACE = 1
 
 
 .endinl
-)
-set "end"=1
